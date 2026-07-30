@@ -1,10 +1,18 @@
-# Tieba Patterns
+<p align="center">
+  <img src="docs/assets/tieba-patterns-hero.png" width="100%" alt="Tieba Patterns — forum threads converging into one concise reply">
+</p>
 
-**Language:** English | [简体中文](README.zh-CN.md)
+<h1 align="center">Tieba Patterns</h1>
 
-![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Patterns](https://img.shields.io/badge/Patterns-108-EF4444)
+<p align="center"><strong>Turn noisy forum threads into one sharp, context-aware reply.</strong></p>
+
+<p align="center">English · <a href="README.zh-CN.md">简体中文</a></p>
+
+<p align="center">
+  <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-111827?logo=openai&logoColor=white">
+  <img alt="Python 3.8+" src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white">
+  <img alt="108 patterns" src="https://img.shields.io/badge/Patterns-108-EF4444">
+</p>
 
 Tieba Patterns is a reusable Codex skill for generating short, context-aware Chinese forum replies from a categorized rhetorical pattern library. It focuses on concise setups, sharp reversals, and attacks on visible claims or behavior rather than personal data or protected traits.
 

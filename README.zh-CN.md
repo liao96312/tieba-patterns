@@ -1,10 +1,18 @@
-# Tieba Patterns
+<p align="center">
+  <img src="docs/assets/tieba-patterns-hero.png" width="100%" alt="Tieba Patterns — 将论坛讨论收束成一句简洁回复">
+</p>
 
-**语言：** [English](README.md) | 简体中文
+<h1 align="center">Tieba Patterns</h1>
 
-![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Patterns](https://img.shields.io/badge/Patterns-108-EF4444)
+<p align="center"><strong>把嘈杂的论坛讨论收束成一句简短、贴合语境的回复。</strong></p>
+
+<p align="center"><a href="README.md">English</a> · 简体中文</p>
+
+<p align="center">
+  <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-111827?logo=openai&logoColor=white">
+  <img alt="Python 3.8+" src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white">
+  <img alt="108 patterns" src="https://img.shields.io/badge/Patterns-108-EF4444">
+</p>
 
 Tieba Patterns 是一个可复用的 Codex skill，根据分类修辞句式生成简短、贴合上下文的中文论坛回复。它强调短铺垫、快反转，攻击可见的观点或行为，不针对个人隐私、受保护特征或无关身份。
 
