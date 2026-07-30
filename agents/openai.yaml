@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tieba Patterns"
+  short_description: "按贴吧句式库生成短促、有攻击性且贴合语境的中文回复"
+  default_prompt: "Use $tieba-patterns to write one sharp context-aware Tieba-style reply."
