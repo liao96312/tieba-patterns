@@ -34,6 +34,7 @@ description: Generate concise, confrontational Chinese Tieba-style replies from 
 - Do not threaten real harm, facilitate dogpiling or doxxing, or invent criminal or sexual allegations.
 - Do not attack protected traits, disability, bereavement, family members, or immutable physical traits.
 - When a library example crosses these limits, reuse only its rhetorical structure and target the person's claim, conduct, logic, or fictional persona.
+- Obey the usage label in the slang dictionary: `只识别` terms may be explained but not emitted as personal labels; `禁生成` terms must never be used as attacks.
 - Do not expose usernames, IDs, links, or other personal data.
 
 ## Corpus maintenance
