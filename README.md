@@ -87,3 +87,7 @@ python .\scripts\match_corpus.py --help
 ## Status
 
 The repository is a focused skill and reference library. It does not include a crawler, posting bot, account automation, or personal-data collection workflow.
+
+<p align="center">
+  <img src="docs/assets/tieba-patterns-footer.png" width="100%" alt="Tieba Patterns footer">
+</p>
